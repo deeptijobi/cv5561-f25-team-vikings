@@ -13,17 +13,17 @@ Real-time falling object detection using RGB camera data using Co-tracker, Open3
 - Shri Dharshan Elango - Feature Extraction
 - Deepti Jobi - Setup, Simulation & Optimisation
 
+## Scripts
 
 Main.ipynb for Tracking and Reconstruction
-  Usage
+  - Usage:
     - Run the Jupyter Notebook as instructed.
-
 Synthetic Data Creation
-  isaacSimFiles folder: Contains files used for dataset simulation in Isaac Sim 2023 environment
+  - isaacSimFiles folder: Contains files used for dataset simulation in Isaac Sim 2023 environment
     - SpawnObjects.py
     - MP4Gen.py
     - CameraSpawn.usd
-  Usage:
+  - Usage:
     - Generate dataset in Isaac Sim:
     - Open spawnObjects.py.
     - Click Run to begin recording frames.
