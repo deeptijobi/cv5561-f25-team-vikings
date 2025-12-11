@@ -1,5 +1,4 @@
-# Falling Object Detection System
-
+# Dynamic Object Tracking and 3D Reconstruction of Multiple Falling Objects from a Single-View Video
 Real-time falling object detection using RGB-D cameras, 3D/2D deep learning, and parallel processing pipelines.
 
 ## Team Members - OCCIPITAL
@@ -10,7 +9,7 @@ Real-time falling object detection using RGB-D cameras, 3D/2D deep learning, and
 
 ## Roles
 
-- Sidharth Kudupudi - Object Detection and segmentation
+- Sidharth Kudupudi - Object Detection and Segmentation
 - Shri Dharshan Elango - Feature Extraction
 - Deepti Jobi - Setup, Simulation & Optimisation
 
