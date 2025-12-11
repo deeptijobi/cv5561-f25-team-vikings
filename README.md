@@ -50,3 +50,10 @@ Real-time falling object detection using RGB camera data using Co-tracker, Open3
   booktitle={European Conference on Computer Vision},
   year={2016}
 }
+@misc{cotracker2023github,
+  author       = {Karaev, Nikita and Facebook Research},
+  title        = {CoTracker: Video Point Tracking Library},
+  howpublished = {\url{https://github.com/facebookresearch/co-tracker}},
+  year         = {2023},
+  note         = {Accessed: 2025-02-12}
+}
