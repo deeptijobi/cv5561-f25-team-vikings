@@ -1,7 +1,7 @@
 # Dynamic Object Tracking and 3D Reconstruction of Multiple Falling Objects from a Single-View Video
-Real-time falling object detection using RGB camera data using Co-tracker, Open3D and COLMAP.
+Real-time falling object detection using RGB camera data using Co-tracker, Open3D, and COLMAP.
 
-## Team Members - OCCIPITAL
+## Team Members
 
 - Shri Dharshan Elango - elang020@umn.edu
 - Sidharth Kudupudi - kudup001@umn.edu
