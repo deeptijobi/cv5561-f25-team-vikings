@@ -20,7 +20,7 @@ Real-time falling object detection using RGB camera data using Co-tracker, Open3
   Run the Jupyter Notebook following the sections in order.
 
 ### Synthetic Data Creation
-- **Files (in `isaacSimFiles` folder):**  
+- **Files (in `IsaacSimFiles` folder):**  
   - `SpawnObjects.py`  
   - `MP4Gen.py`  
   - `CameraSpawn.usd`  
