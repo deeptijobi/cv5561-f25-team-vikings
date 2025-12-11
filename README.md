@@ -44,3 +44,9 @@ Real-time falling object detection using RGB camera data using Co-tracker, Open3
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2025}
 }
+@inproceedings{schonberger2016mvs,
+  title={Pixelwise View Selection for Unstructured Multi-View Stereo},
+  author={Sch{\"o}nberger, Johannes L and Zheng, Enliang and Pollefeys, Marc and Frahm, Jan-Michael},
+  booktitle={European Conference on Computer Vision},
+  year={2016}
+}
