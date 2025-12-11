@@ -1,5 +1,5 @@
 # Dynamic Object Tracking and 3D Reconstruction of Multiple Falling Objects from a Single-View Video
-Real-time falling object detection using RGB camera data using Co-tracker, Open3D and COLMAP.
+Real-time falling object detection using RGB camera data using Co-tracker, Open3D, and COLMAP.
 
 ## Team Members - OCCIPITAL
 
@@ -19,7 +19,7 @@ Main.ipynb for Tracking and Reconstruction
   - Usage:
     - Run the Jupyter Notebook as instructed.
 Synthetic Data Creation
-  - isaacSimFiles folder: Contains files used for dataset simulation in Isaac Sim 2023 environment
+  - IsaacSimFiles folder: Contains files used for dataset simulation in the Isaac Sim 2023 environment.
     - SpawnObjects.py
     - MP4Gen.py
     - CameraSpawn.usd
@@ -30,5 +30,5 @@ Synthetic Data Creation
     - Stop the simulation when finished.
     - Run MP4Gen.py (Will compile frames into an MP4 video)
     
-Dataset folder: Contains generated dataset information.
+Dataset folder: Contains information about the generated dataset.
 
