@@ -36,7 +36,6 @@ Real-time falling object detection using RGB camera data using Co-tracker, Open3
 - **Contents:** Generated dataset information.
 
 ### Citation
-### CoTracker3
 ```bibtex
 @inproceedings{karaev2025cotracker3,
   title={CoTracker3: Simpler and better point tracking by pseudo-labelling real videos},
