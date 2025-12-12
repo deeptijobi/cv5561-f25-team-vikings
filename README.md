@@ -9,9 +9,9 @@ Real-time falling object detection using RGB camera data using Co-tracker, Open3
 
 ## Roles
 
-- Sidharth Kudupudi - Object Detection and Segmentation
-- Shri Dharshan Elango - Feature Extraction
-- Deepti Jobi - Setup, Simulation & Optimisation
+- Sidharth Kudupudi - Co-tracker Implementation and 3d Reconstruction 
+- Shri Dharshan Elango - 3d Reconstruction and Segmentation 
+- Deepti Jobi - Setup, Simulation and Segmentation
 
 ## Scripts
 
